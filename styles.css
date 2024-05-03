@@ -115,7 +115,7 @@ footer{
 .box img{
     border-radius: 5px;
     text-align: center;
-    width: 300px;
+    width: 330px;
 }
 
 #about{
@@ -157,6 +157,9 @@ footer{
 #about{
     display: flex;
     justify-content: space-around;
+}
+.box img{
+    width: 280px;
 }
 
 }
