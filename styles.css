@@ -49,14 +49,14 @@ footer{
     align-items: center;
     justify-content: space-between;
     color: white;
-    font-size: 40px;
-    padding: 50px;
+    padding: 30px;
 }
 
 #hero-section .content h1 span{
     color: transparent;
     -webkit-text-stroke: 2px white;
 }
+
 
 #hero-section .booking{
    border: 2px solid white; 
